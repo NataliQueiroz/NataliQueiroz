@@ -11,7 +11,7 @@ Sou formada em licenciatura em ciências biológicas, atualmente curso análise 
 
 
 ## 🛠 Habilidades
-Javascript, HTML, CSS, Nest.js, Typescript, Postgresql, Prisma.
+Javascript, HTML, CSS, Nest.js, Typescript, Postgresql, Prisma, Docker.
 
 
 ## Outras seções comuns em perfis do GitHub
