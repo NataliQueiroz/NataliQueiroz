@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre mim
 Sou uma dev em construção 😉 focada em desenvolvimento fullstack,
-atualmente faço estágio em desenvolvimento de software em uma empresa de biotecnologia.
+já fiz estágio em desenvolvimento de software em uma empresa de biotecnologia e atualmente estou em busca de uma oportunidade no mercado de trabalho.
 
 Sou formada em licenciatura em ciências biológicas, atualmente curso análise e desenvolvimento de sistemas.
 
