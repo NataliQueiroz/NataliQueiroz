@@ -15,7 +15,7 @@ Javascript, HTML, CSS, Python, Angular, Nest.js, Typescript, Postgresql, Prisma,
 
 
 ## Outras seções comuns em perfis do GitHub
-👩‍💻 Trabalho atualmente no IBBI
+👩‍💻 Estagiei no IBBI, atualmente estou em busca de uma oportunidade
 
 🧠 Estou aprendendo POO - Programação Orientada a Objetos
 
