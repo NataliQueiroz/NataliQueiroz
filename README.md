@@ -3,8 +3,8 @@
 
 
 ## 🚀 Sobre mim
-Sou uma dev em construção 😉 focada em desenvolvimento fullstack,
-já fiz estágio em desenvolvimento de software em uma empresa de biotecnologia e atualmente estou em busca de uma oportunidade no mercado de trabalho.
+Sou uma dev em construção 😉 focada em desenvolvimento para iOS,
+já fiz estágio em desenvolvimento de software em uma empresa de biotecnologia e atualmente faço parte da Apple Developer Academy de Manaus .
 
 Sou formada em licenciatura em ciências biológicas, atualmente curso bacharel em Ciência da Computação.
 
