@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre mim
 Sou uma dev em construção 😉 focada em desenvolvimento para iOS,
-já fiz estágio em desenvolvimento de software em uma empresa de biotecnologia e atualmente faço parte da Apple Developer Academy de Manaus .
+já fiz estágio em desenvolvimento de software em uma empresa de biotecnologia e atualmente faço parte da Apple Developer Academy de Manaus 🍎.
 
 Sou formada em licenciatura em ciências biológicas, atualmente curso bacharel em Ciência da Computação.
 
@@ -15,9 +15,11 @@ Swift, Javascript, HTML, CSS, Python, Angular, Nest.js, Typescript, Postgresql, 
 
 
 ## Outras seções comuns em perfis do GitHub
-👩‍💻 Estagiei no IBBI, atualmente estou em busca de uma oportunidade
+👩‍💻 Estagiei no IBBI, na área de Desenvolvimento Fullstack
 
-🧠 Estou aprendendo POO - Programação Orientada a Objetos
+🫡 Fui Trainee em Documentação/Testes no laboratório Nexus/ThinkTed - UEA
+
+🧠 Sou aluna de desenvolvimento no ecossistema Apple na Apple Developer Academy
 
 👯‍♀️ Procuro colaborar em projetos que impactem positivamente a vida das pessoas
 
